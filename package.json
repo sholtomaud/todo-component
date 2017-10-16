@@ -1,0 +1,23 @@
+{
+  "name": "todo-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shotlom/todo-component.git"
+  },
+  "keywords": [
+    "todo",
+    "component"
+  ],
+  "author": "Sholto Maud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shotlom/todo-component/issues"
+  },
+  "homepage": "https://github.com/shotlom/todo-component#readme"
+}
